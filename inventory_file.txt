@@ -1,0 +1,10 @@
+1,Nissan Oil Filter,6,Oil Filter,Nissan,6,16000
+2,Nissan Sentra Windshield,9,Windshield,Nissan,5,30000
+3,Toyota Camry Left Tail Light,5,Tail Light,Toyota,5,25000
+4,Porsche Cayman Left Headlight,3,Headlight,Porcshe,3,50000
+5,Honda Accord Left Fender,3,Fender,Honda,5,11000
+6,Honda Civic Brakepad,8,Brakepad,Honda,7,4000
+7,Mitsubishi Lancer Dashboard,4,Dashboard,Mitsubishi,3,5000
+8,Subaru Impreza Rear Bumper,7,Bumper,Subaru,3,45000
+9,Suzuki Swift Dashboard,7,Dashboard,Suzuki,3,9000
+10,Subaru Forester Front Bumper,5,Bumper,Subaru,2,55000
